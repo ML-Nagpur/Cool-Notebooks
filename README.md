@@ -1,7 +1,7 @@
 # Cool-Notebooks
 
 <div>
-  <img src="https://raw.githubusercontent.com/prasanna-muppidwar/Cool-Notebooks/main/Machine%20Learning%20Notebooks/ML%20Nagpur.png" alt="ML Nagpur" height="80">
+  <img src="https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/ML%20Nagpur.png" alt="ML Nagpur" height="80">
 </div>
 
 Welcome to the "Cool-Notebooks" repository by Team ML Nagpur! This collection features a diverse set of data and artificial intelligence (AI) notebook templates, covering a wide range of machine learning topics. These notebooks are curated to provide valuable resources, including models, analytics, code snippets, and more.
