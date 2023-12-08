@@ -1,10 +1,10 @@
 # Cool-Notebooks
 
-<div>
-  <img src="https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/ML%20Nagpur.png" alt="ML Nagpur" height="80">
-</div>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/142468240?s=400&u=9a340c3f66cca9b146fc035d39f3ab3fef26989a&v=4" alt="ML Nagpur Logo" width="auto" height="200"></p>
 
-Welcome to the "Cool-Notebooks" repository by Team ML Nagpur! This collection features a diverse set of data and artificial intelligence (AI) notebook templates, covering a wide range of machine learning topics. These notebooks are curated to provide valuable resources, including models, analytics, code snippets, and more.
+## Welcome to the "Cool-Notebooks" repository by Team ML Nagpur! 
+
+This collection features a diverse set of data and artificial intelligence (AI) notebook templates, covering a wide range of machine learning topics. These notebooks are curated to provide valuable resources, including models, analytics, code snippets, and more.
 
 ## Table of Contents
 
@@ -33,5 +33,5 @@ Explore notebooks covering a variety of machine learning topics, including but n
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/prasanna-muppidwar/Cool-Notebooks.git
+   git clone https://github.com/ML-Nagpur/Cool-Notebooks.git
 
