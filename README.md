@@ -1,6 +1,6 @@
 # Cool-Notebooks
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/142468240?s=400&u=9a340c3f66cca9b146fc035d39f3ab3fef26989a&v=4" alt="ML Nagpur Logo" width="auto" height="200"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/142468240?s=400&u=9a340c3f66cca9b146fc035d39f3ab3fef26989a&v=4" alt="ML Nagpur Logo" width="auto" height="100"></p>
 
 ## Welcome to the "Cool-Notebooks" repository by Team ML Nagpur! 
 
