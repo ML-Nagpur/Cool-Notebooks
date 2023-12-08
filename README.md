@@ -34,4 +34,11 @@ Explore notebooks covering a variety of machine learning topics, including but n
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/ML-Nagpur/Cool-Notebooks.git
+   
+
+   
+## Our Contributors🧑🏻‍💻
+<a href="https://github.com/ML-Nagpur/Cool-Notebooks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ML-Nagpur/Cool-Notebooks" />
+</a>
 
