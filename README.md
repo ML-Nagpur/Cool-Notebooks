@@ -57,8 +57,5 @@ Explore notebooks covering a variety of machine learning topics, including but n
 Feel free to tailor these steps based on your project's specific requirements and include any other relevant information.
 
    
-## Our Contributors🧑🏻‍💻
-<a href="https://github.com/ML-Nagpur/Cool-Notebooks/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ML-Nagpur/Cool-Notebooks" />
-</a>
+
 
