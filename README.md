@@ -12,6 +12,7 @@ This collection features a diverse set of data and artificial intelligence (AI) 
 2. [Notebook Categories](#notebook-categories)
 3. [How to Use](#how-to-use)
 4. [How to Contribute](#how-to-contribute)
+5. [Connect with Us](#connect-with-us)
 
 ## Introduction
 
