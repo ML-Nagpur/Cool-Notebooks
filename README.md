@@ -12,8 +12,6 @@ This collection features a diverse set of data and artificial intelligence (AI) 
 2. [Notebook Categories](#notebook-categories)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [Team ML Nagpur](#team-ml-nagpur)
-6. [License](#license)
 
 ## Introduction
 
