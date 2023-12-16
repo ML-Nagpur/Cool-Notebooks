@@ -68,6 +68,27 @@ Make your changes, commit them, and push to your fork.
 5. **Submit a Pull Request:**
 Open a pull request from your fork to the main repository. Provide a clear description of your changes.
 
+├── CODE_OF_CONDUCT.md
+├── LICENSE
+├── README.md
+├── algorithms
+│   ├── c-sharp
+│   │   └── algorithmsInfo.md
+│   ├── cpp
+│   │   ├── algorithmsInfo.md
+│   │   ├── bfs.cpp
+│   │   ├── bfs_modified.cpp
+│   │   ├── binary_search.cpp
+│   │   ├── bogo_sort.cpp
+│   │   ├── bubble_sort.cpp
+│   │   ├── dft.cpp
+│   │   ├── dijkstra's_algorithm.cpp
+│   │   ├── heap_sort.cpp
+│   │   ├── insertion_sort.cpp
+│   │   ├── kadane's_algorithm.cpp
+│   │   ├── krushkal's_minimum_spanning_tree.cpp
+│   │   ├── linea
+
 ## Connect with Us
 
 Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discussions, questions, and updates. Connect with fellow learners and practitioners to enhance your ML journey.
