@@ -67,7 +67,10 @@ Make your changes, commit them, and push to your fork.
 
 5. **Submit a Pull Request:**
 Open a pull request from your fork to the main repository. Provide a clear description of your changes.
+
 <details >
+   <summary> Click to View </summary>
+.
 ├── Cool-Notebooks
 |   ├── Machine Learning Notebooks
 │   |   ├──Automated ML Classification template
