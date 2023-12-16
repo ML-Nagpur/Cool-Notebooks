@@ -70,7 +70,7 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 
 <details >
    <summary> Click to View </summary>
-.
+'''bash
 ├── Cool-Notebooks
 |   ├── Machine Learning Notebooks
 │   |   ├──Automated ML Classification template
@@ -210,7 +210,7 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 │   │   |   |   └── support_vector_regression.ipynb
 │   │   |   |   └── support_vector_regression.py
 │   |   ├── .DS_Store
-   
+'''
 </details>
 
 ## Connect with Us
