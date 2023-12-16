@@ -69,15 +69,15 @@ Make your changes, commit them, and push to your fork.
 Open a pull request from your fork to the main repository. Provide a clear description of your changes.
 <details >
 ├── Cool-Notebooks
-├── ├── Machine Learning Notebooks
+|   ├── Machine Learning Notebooks
 │   |   ├──Automated ML Classification template
 │   │   |  └── AutomatedClassification.ipynb
-│   ├── ├──Categorise-Data-From-Single-Feature-Using-NLTK-main
-│   │   |   ├── All Sports Fitness and Outdoors.csv
-│   │   |   ├── CategorisationOfData_.ipynb
-│   │   |   ├── README.md
-│   │   |   ├── sports.csv
-│   |   ├── Classification
+│   |   ├──Categorise-Data-From-Single-Feature-Using-NLTK-main
+│   │   |   └── All Sports Fitness and Outdoors.csv
+│   │   |   └── CategorisationOfData_.ipynb
+│   │   |   └── README.md
+│   │   |   └── sports.csv
+│   |   |   Classification
 │   │   |   ├── Logistic Regression/Python
 │   │   |   |   ├── Color Blind Friendly Images
 │   |   │   |   |   └──logistic_regression_test_set.png
