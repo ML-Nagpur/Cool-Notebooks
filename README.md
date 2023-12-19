@@ -114,7 +114,53 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 - [k_nearest_neighbors.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/k_nearest_neighbors.ipynb)
 - [k_nearest_neighbors.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/k_nearest_neighbors.py)
 
-### ... (similar structure for other classification methods)
+## Machine Learning Notebooks
+
+### Classification
+
+#### Kernel SVM
+
+##### Color Blind Friendly Images
+- [kernel_svm_test_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/Color%20Blind%20Friendly%20Images/kernel_svm_test_set.png)
+- [kernel_svm_training_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/Color%20Blind%20Friendly%20Images/kernel_svm_training_set.png)
+
+##### Files
+- [Social_Network_Ads.csv](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/Social_Network_Ads.csv)
+- [kernel_svm.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/kernel_svm.ipynb)
+- [kernel_svm.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/kernel_svm.py)
+
+#### Naive Bayes
+
+##### Color Blind Friendly Images
+- [naive_bayes_test_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Naive%20Bayes/Color%20Blind%20Friendly%20Images/naive_bayes_test_set.png)
+- [naive_bayes_training_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Naive%20Bayes/Color%20Blind%20Friendly%20Images/naive_bayes_training_set.png)
+
+##### Files
+- [Social_Network_Ads.csv](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Naive%20Bayes/Social_Network_Ads.csv)
+- [naive_bayes.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Naive%20Bayes/naive_bayes.ipynb)
+- [naive_bayes.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Naive%20Bayes/naive_bayes.py)
+
+#### Random Forest Classification
+
+##### Color Blind Friendly Images
+- [random_forest_classification_test_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Random%20Forest%20Classification/Color%20Blind%20Friendly%20Images/random_forest_classification_test_set.png)
+- [random_forest_classification_training_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Random%20Forest%20Classification/Color%20Blind%20Friendly%20Images/random_forest_classification_training_set.png)
+
+##### Files
+- [Social_Network_Ads.csv](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Random%20Forest%20Classification/Social_Network_Ads.csv)
+- [random_forest_classification.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Random%20Forest%20Classification/random_forest_classification.ipynb)
+- [random_forest_classification.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Random%20Forest%20Classification/random_forest_classification.py)
+
+#### Support VecMachine%20Learning%20Notebooksr Machine (SVM)
+
+##### Color Blind Friendly Images
+- [svm_test_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Support%20VecMachine%20Learning%20Notebooksr%20Machine%20(SVM)/Color%20Blind%20Friendly%20Images/svm_test_set.png)
+- [svm_training_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Support%20VecMachine%20Learning%20Notebooksr%20Machine%20(SVM)/Color%20Blind%20Friendly%20Images/svm_training_set.png)
+
+##### Files
+- [Social_Network_Ads.csv](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Support%20VecMachine%20Learning%20Notebooksr%20Machine%20(SVM)/Social_Network_Ads.csv)
+- [support_vecMachine%20Learning%20Notebooksr_machine.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Support%20VecMachine%20Learning%20Notebooksr%20Machine%20(SVM)/support_vecMachine%20Learning%20Notebooksr_machine.ipynb)
+- [support_vecMachine%20Learning%20Notebooksr_machine.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Support%20VecMachine%20Learning%20Notebooksr%20Machine%20(SVM)/support_vecMachine%20Learning%20Notebooksr_machine.py)
 
 ## Clustering
 
@@ -159,7 +205,36 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 - [convolutional_neural_network.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network.ipynb)
 - [convolutional_neural_network.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network.py)
 
-### ... (similar structure for other deep learning methods)
+## Artificial Neural Networks (ANN)
+
+### PyhDeep%20Learningn
+
+#### Files
+- [.DS_SDeep%20Learningre](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/.DS_SDeep%20Learningre)
+- [Churn_Modelling.csv](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/Churn_Modelling.csv)
+- [artificial_neural_network.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/artificial_neural_network.ipynb)
+- [artificial_neural_network.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/artificial_neural_network.py)
+
+### SDeep%20Learningchastic Gradient Descent
+
+- [.DS_SDeep%20Learningre](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/SDeep%20Learningchastic%20Gradient%20Descent/.DS_SDeep%20Learningre)
+- [SDeep%20Learningchastic_Gradient_Descent.png](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/SDeep%20Learningchastic%20Gradient%20Descent/SDeep%20Learningchastic_Gradient_Descent.png)
+
+### Multi-layer perceptron (MLP)
+
+- [Multi_Layer_Perceptron_(MLP)_Model.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/Multi-layer%20perceptron%20(MLP)/Multi_Layer_Perceptron_(MLP)_Model.ipynb)
+- [multi_layer_perceptron_(mlp)_model.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/Multi-layer%20perceptron%20(MLP)/multi_layer_perceptron_(mlp)_model.py)
+
+### Recurrent Neural Networks (RNN)
+
+- [Recurrent_Neural_Networks_(RNN).ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/Recurrent%20Neural%20Networks%20(RNN)/Recurrent_Neural_Networks_(RNN).ipynb)
+- [recurrent_neural_networks_(rnn).py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/Recurrent%20Neural%20Networks%20(RNN)/recurrent_neural_networks_(rnn).py)
+
+### Single-layer perceptron (SLP)
+
+- [single_layer_perceptron_(SLP)_Model.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/Single-layer%20perceptron%20(SLP)/single_layer_perceptron_(SLP)_Model.ipynb)
+- [single_layer_perceptron_(slp)_model.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/Single-layer%20perceptron%20(SLP)/single_layer_perceptron_(slp)_model.py)
+
 
 ## Natural Language Processing
 
@@ -189,9 +264,35 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 - [decision_tree_regression.ipynb](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/decision_tree_regression.ipynb)
 - [decision_tree_regression.py](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/decision_tree_regression.py)
 
-### ... (similar structure for other regression methods)
+## Regression
+
+### Multiple Linear Regression
+
+- [50_Startups.csv](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Multiple%20Linear%20Regression/50_Startups.csv)
+- [multiple_linear_regression.ipynb](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Multiple%20Linear%20Regression/multiple_linear_regression.ipynb)
+- [multiple_linear_regression.py](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Multiple%20Linear%20Regression/multiple_linear_regression.py)
+
+### Random Forest Regression
+
+- [Position_Salaries.csv](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Random%20Forest%20Regression/Position_Salaries.csv)
+- [random_forest_regression.ipynb](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Random%20Forest%20Regression/random_forest_regression.ipynb)
+- [random_forest_regression.py](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Random%20Forest%20Regression/random_forest_regression.py)
+
+### Simple Linear Regression
+
+- [Salary_Data.csv](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Simple%20Linear%20Regression/Salary_Data.csv)
+- [simple_linear_regression.ipynb](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Simple%20Linear%20Regression/simple_linear_regression.ipynb)
+- [simple_linear_regression.py](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Simple%20Linear%20Regression/simple_linear_regression.py)
+
+### Support VecRegressionr Regression (SVR)
+
+- [Position_Salaries.csv](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Support%20VecRegressionr%20Regression%20(SVR)/Position_Salaries.csv)
+- [support_vecRegressionr_regression.ipynb](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Support%20VecRegressionr%20Regression%20(SVR)/support_vecRegressionr_regression.ipynb)
+- [support_vecRegressionr_regression.py](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Support%20VecRegressionr%20Regression%20(SVR)/support_vecRegressionr_regression.py)
+
 
 ### .DS_Store
+
 
 </details>
 
