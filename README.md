@@ -69,7 +69,7 @@ Make your changes, commit them, and push to your fork.
 Open a pull request from your fork to the main repository. Provide a clear description of your changes.
 
 <details >
-   <summary> Click to View </summary>
+   <summary> Click to View the folder structure </summary>
 # Cool-Notebooks
 
 ## Machine Learning Notebooks
