@@ -114,17 +114,12 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 - [k_nearest_neighbors.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/k_nearest_neighbors.ipynb)
 - [k_nearest_neighbors.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/k_nearest_neighbors.py)
 
-## Machine Learning Notebooks
-
-### Classification
-
 #### Kernel SVM
 
 ##### Color Blind Friendly Images
 - [kernel_svm_test_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/Color%20Blind%20Friendly%20Images/kernel_svm_test_set.png)
 - [kernel_svm_training_set.png](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/Color%20Blind%20Friendly%20Images/kernel_svm_training_set.png)
 
-##### Files
 - [Social_Network_Ads.csv](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/Social_Network_Ads.csv)
 - [kernel_svm.ipynb](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/kernel_svm.ipynb)
 - [kernel_svm.py](Cool-Notebooks/Machine%20Learning%20Notebooks/Classification/direcMachine%20Learning%20Notebooksry/Classification/Kernel%20SVM/kernel_svm.py)
@@ -289,10 +284,6 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 - [Position_Salaries.csv](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Support%20VecRegressionr%20Regression%20(SVR)/Position_Salaries.csv)
 - [support_vecRegressionr_regression.ipynb](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Support%20VecRegressionr%20Regression%20(SVR)/support_vecRegressionr_regression.ipynb)
 - [support_vecRegressionr_regression.py](Cool-Notebooks/Regression/Decision%20Tree%20Regression/Python/direcRegressionry/Regression/Support%20VecRegressionr%20Regression%20(SVR)/support_vecRegressionr_regression.py)
-
-
-### .DS_Store
-
 
 </details>
 
