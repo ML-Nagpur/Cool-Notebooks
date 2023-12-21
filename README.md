@@ -291,4 +291,4 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 
 Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discussions, questions, and updates. Connect with fellow learners and practitioners to enhance your ML journey.
 
-![](https://komarev.com/ghpvc/?username=ML-Nagpur/Cool-Notebooks&color=orange)
+![](https://komarev.com/ghpvc/?username=ML-Nagpur&color=orange)
