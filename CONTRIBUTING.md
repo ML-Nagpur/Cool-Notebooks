@@ -6,6 +6,7 @@
 ### How to Contribute
 
 1. Create a issue regrading your contribution.
+2. Don't create PR before the issue gets assigned to you.
 1. **Fork the Repository:**
 Click on the "Fork" button at the top right to create your copy of the repository.
 
