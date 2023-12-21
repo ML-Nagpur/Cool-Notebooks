@@ -290,3 +290,4 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 ## Connect with Us
 
 Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discussions, questions, and updates. Connect with fellow learners and practitioners to enhance your ML journey.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=/ML-Nagpur/Cool-Notebooks)
