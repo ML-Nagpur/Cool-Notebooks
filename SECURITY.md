@@ -5,6 +5,6 @@ If you discover a security issue in any of the ML Nagpur Community's open-source
 Responsible Disclosure
 We value responsible disclosure. If you find a security vulnerability, please follow these steps:
 
-Submit your findings to our security email.
-Allow us a reasonable time to address the issue before making any public disclosures.
-Work with us to resolve the issue.
+- Submit your findings to our security email.
+- Allow us a reasonable time to address the issue before making any public disclosures.
+- Work with us to resolve the issue.
