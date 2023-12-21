@@ -26,10 +26,12 @@ This collection features a diverse set of data and artificial intelligence (AI) 
 
 Explore notebooks covering a variety of machine learning topics, including but not limited to:
 
-- **Regression**
-- **Classification**
-- **Clustering**
-- **Data Preprocessing**
+- **Machine Learning**
+- **Deep Learning**
+- **Natural Language Processing**
+- **Computer Vision**
+- **Experimental Notebooks**
+
 
 
 ## How to Use
