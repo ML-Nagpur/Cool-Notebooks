@@ -2,9 +2,10 @@
 
 ## Follow these steps to contribute:
 
+
 ### How to Contribute
 
-
+1. Create a issue regrading your contribution.
 1. **Fork the Repository:**
 Click on the "Fork" button at the top right to create your copy of the repository.
 
