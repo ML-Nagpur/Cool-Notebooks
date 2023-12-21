@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/142468240?s=400&u=9a340c3f66cca9b146fc035d39f3ab3fef26989a&v=4" alt="ML Nagpur Logo" width="auto" height="100" style="border-radius=20px;"></p> 
 
-![Total Visitors](https://komarev.com/ghpvc/?username=ML-Nagpur&color=orange)
+![Repository Visitors](https://komarev.com/ghpvc/?username=ML-Nagpur&color=orange)
 
 
 ## Welcome to the "Cool-Notebooks" repository by Team ML Nagpur! 
