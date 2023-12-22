@@ -79,17 +79,33 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 - Face Detection
   - [Face_detection.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Computer%20Vision/Face_Detection/Face_Detection.py)
   - [requirements.txt](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Computer%20Vision/Face_Detection/requirements.txt)
-- [Convolution Neural Network for MNIST Handwritten Digits Classification.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.py)
-- [convolutional_neural_network.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network.ipynb)
-- [convolutional_neural_network.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network.py)
+- Hand_Tracking
+  - [Hand_Tracking.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Computer%20Vision/Hand_Tracking/Hand_Tracking.py)
+  - [requirements.txt](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Computer%20Vision/Hand_Tracking/requirements.txt)
 
-### Artificial Neural Networks (ANN)
 
-#### Files
-- [.DS_SDeep%20Learningre](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/.DS_SDeep%20Learningre)
-- [Churn_Modelling.csv](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/Churn_Modelling.csv)
-- [artificial_neural_network.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/artificial_neural_network.ipynb)
-- [artificial_neural_network.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/artificial_neural_network.py)
+### Deep Learning
+
+- Convolutional Neural Networks (CNN)
+  - [Convolution Neural Network for MNIST Handwritten Digits Classification.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.ipynb)
+  - [Convolution Neural Network for MNIST Handwritten Digits Classification.py
+](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.py)
+  - [convolutional_neural_network.ipynb
+Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/convolutional_neural_network.ipynb)
+  - [convolutional_neural_network.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/convolutional_neural_network.py)
+    
+- Artificial Neural Networks (ANN)
+  - Python
+    - [.DS_Store](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/.DS_Store)
+    - [Churn_Modelling.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/Churn_Modelling.csv)
+    - [artificial_neural_network.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/artificial_neural_network.ipynb)
+    - [artificial_neural_network.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/artificial_neural_network.py)
+  - [Convolution Neural Network for MNIST Handwritten Digits Classification.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.ipynb)
+  - [Convolution Neural Network for MNIST Handwritten Digits Classification.py
+](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.py)
+  - [convolutional_neural_network.ipynb
+Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/convolutional_neural_network.ipynb)
+  - [convolutional_neural_network.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/convolutional_neural_network.py)
   
 ### Gated Recurrent Unit (GRU)
 
