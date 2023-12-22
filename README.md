@@ -125,7 +125,7 @@ Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%2
   - [single_layer_perceptron_(SLP)_Model.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/single-layer%20perceptron%20(SLP)/single_layer_perceptron_(SLP)_Model.ipynb)
   - [single_layer_perceptron_(slp)_model.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/single-layer%20perceptron%20(SLP)/single_layer_perceptron_(slp)_model.py)
  
-    ## Experimental Notebooks
+  ### Experimental Notebooks
     - Automated ML Classification Template
         - [AutomatedClassification.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Automated%20ML%20Classification%20Template/AutomatedClassification.ipynb)
     - Categorise-Data-From-Single-Feature-Using-NLTK-main
@@ -134,6 +134,60 @@ Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%2
         - [README.md](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Categorise-Data-From-Single-Feature-Using-NLTK-main/README.md)
         - [sports.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Categorise-Data-From-Single-Feature-Using-NLTK-main/sports.csv)
     - [.DS_Store](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/.DS_Store)
+ 
+  ### Machine Learning Notebooks
+
+- Classification
+  - Logistic Regression
+    - Color BLind Friendly Images
+       - [logistic_regression_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/%20Logistic%20Regression/Python/Color%20Blind%20Friendly%20Images/logistic_regression_test_set.png)
+       - [logistic_regression_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/%20Logistic%20Regression/Python/Color%20Blind%20Friendly%20Images/logistic_regression_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/%20Logistic%20Regression/Python/Social_Network_Ads.csv)
+     - [logistic_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/%20Logistic%20Regression/Python/logistic_regression.ipynb)
+     - [logistic_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/%20Logistic%20Regression/Python/logistic_regression.py)
+  - Decision Tree Classification
+    - Color BLind Friendly Images
+       - [decision_tree_classification_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Decision%20Tree%20Classification/Python/Color%20Blind%20Friendly%20Images/decision_tree_classification_test_set.png)
+       - [decision_tree_classification_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Decision%20Tree%20Classification/Python/Color%20Blind%20Friendly%20Images/decision_tree_classification_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Decision%20Tree%20Classification/Python/Social_Network_Ads.csv)
+     - [decision_tree_classification.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Decision%20Tree%20Classification/Python/decision_tree_classification.ipynb)
+     - [decision_tree_classification.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Decision%20Tree%20Classification/Python/decision_tree_classification.py)
+  - K-Nearest Neighbors (K-NN)
+    - Color BLind Friendly Images
+       - [knn_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/Python/Color%20Blind%20Friendly%20Images/knn_test_set.png)
+       - [knn_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/Python/Color%20Blind%20Friendly%20Images/knn_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/Python/Social_Network_Ads.csv)
+     - [k_nearest_neighbors.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/Python/k_nearest_neighbors.ipynb)
+     - [k_nearest_neighbors.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/K-Nearest%20Neighbors%20(K-NN)/Python/k_nearest_neighbors.py)
+  - Kernel SVM
+    - Color BLind Friendly Images
+       - [kernel_svm_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Kernel%20SVM/Python/Color%20Blind%20Friendly%20Images/kernel_svm_test_set.png)
+       - [kernel_svm_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Kernel%20SVM/Python/Color%20Blind%20Friendly%20Images/kernel_svm_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Kernel%20SVM/Python/Social_Network_Ads.csv)
+     - [kernel_svm.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Kernel%20SVM/Python/kernel_svm.ipynb)
+     - [kernel_svm.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Kernel%20SVM/Python/kernel_svm.py)
+  - Naive Bayes
+    - Color BLind Friendly Images
+       - [naive_bayes_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Naive%20Bayes/Python/Color%20Blind%20Friendly%20Images/naive_bayes_test_set.png)
+       - [naive_bayes_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Kernel%20SVM/Python/Color%20Blind%20Friendly%20Images/[naive_bayes_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Naive%20Bayes/Python/Social_Network_Ads.csv)
+     - [naive_bayes.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Naive%20Bayes/Python/naive_bayes.ipynb)
+     - [naive_bayes.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Naive%20Bayes/Python/naive_bayes.py)
+  - Random Forest Classification
+    - Color BLind Friendly Images
+       - [random_forest_classification_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Random%20Forest%20Classification/Python/Color%20Blind%20Friendly%20Images/random_forest_classification_test_set.png)
+       - [random_forest_classification_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Random%20Forest%20Classification/Python/Color%20Blind%20Friendly%20Images/random_forest_classification_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Random%20Forest%20Classification/Python/Social_Network_Ads.csv)
+     - [random_forest_classification.ipynb
+](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Random%20Forest%20Classification/Python/random_forest_classification.ipynb)
+     - [random_forest_classification.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Random%20Forest%20Classification/Python/random_forest_classification.py)
+  - Support Vector Machine (SVM)
+    - Color BLind Friendly Images
+       - [svm_test_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/Color%20Blind%20Friendly%20Images/svm_test_set.png)
+       - [svm_training_set.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/Color%20Blind%20Friendly%20Images/svm_training_set.png)
+    - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/Social_Network_Ads.csv)
+     - [support_vector_machine.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/support_vector_machine.ipynb)
+     - [support_vector_machine.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/support_vector_machine.py)
 
 </details>
 
