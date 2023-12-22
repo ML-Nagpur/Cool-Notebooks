@@ -188,6 +188,58 @@ Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%2
     - [Social_Network_Ads.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/Social_Network_Ads.csv)
      - [support_vector_machine.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/support_vector_machine.ipynb)
      - [support_vector_machine.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Classification/Support%20Vector%20Machine%20(SVM)/Python/support_vector_machine.py)
+- Clustering
+  -  K-Means Clustering/Python
+     - [Mall_Customers.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Clustering/%20K-Means%20Clustering/Python/Mall_Customers.csv)
+     - [k_means_clustering.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Clustering/%20K-Means%20Clustering/Python/k_means_clustering.ipynb)
+     - [k_means_clustering.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Clustering/%20K-Means%20Clustering/Python/k_means_clustering.py)
+  -  Hierarchical Clustering
+     - [Mall_Customers.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Clustering/Hierarchical%20Clustering/Python/Mall_Customers.csv)
+     - [hierarchical_clustering.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Clustering/Hierarchical%20Clustering/Python/hierarchical_clustering.ipynb)
+     - [hierarchical_clustering.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Clustering/Hierarchical%20Clustering/Python/hierarchical_clustering.py)
+-  Data Preprocessing
+   - [Data.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Data%20Preprocessing/Python/Data.csv)
+   - [data_preprocessing_template.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Data%20Preprocessing/Python/data_preprocessing_template.ipynb)
+   - [data_preprocessing_template.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Data%20Preprocessing/Python/data_preprocessing_template.py)
+   - [data_preprocessing_tools.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Data%20Preprocessing/Python/data_preprocessing_tools.ipynb)
+   - [data_preprocessing_tools.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Data%20Preprocessing/Python/data_preprocessing_tools.py)
+ 
+- Regression
+  - Polynomial Regression
+    - [Position_Salaries.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/%20Polynomial%20Regression/Python/Position_Salaries.csv)
+    - [polynomial_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/%20Polynomial%20Regression/Python/polynomial_regression.ipynb)
+    - [polynomial_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/%20Polynomial%20Regression/Python/polynomial_regression.py)
+  - Decision Tree Regression
+    - [Position_Salaries.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Decision%20Tree%20Regression/Python/Position_Salaries.csv)
+    - [decision_tree_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Decision%20Tree%20Regression/Python/decision_tree_regression.ipynb)
+    - [decision_tree_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Decision%20Tree%20Regression/Python/decision_tree_regression.py)
+  - Multiple Linear Regression
+    - [50_Startups.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Multiple%20Linear%20Regression/Python/50_Startups.csv)
+    - [multiple_linear_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Multiple%20Linear%20Regression/Python/multiple_linear_regression.ipynb)
+    - [multiple_linear_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Multiple%20Linear%20Regression/Python/multiple_linear_regression.py)
+  - Random Forest Regression
+    - [Position_Salaries.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Random%20Forest%20Regression/Python/Position_Salaries.csv)
+    - [random_forest_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Random%20Forest%20Regression/Python/random_forest_regression.ipynb)
+    - [random_forest_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Random%20Forest%20Regression/Python/random_forest_regression.py)
+  - Simple Linear Regression
+    - [Salary_Data.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Simple%20Linear%20Regression/Python/Salary_Data.csv)
+    - [simple_linear_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Simple%20Linear%20Regression/Python/simple_linear_regression.ipynb)
+    - [simple_linear_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Simple%20Linear%20Regression/Python/simple_linear_regression.py)
+  - Support Vector Regression (SVR)
+    - [Position_Salaries.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Support%20Vector%20Regression%20(SVR)/Python/Position_Salaries.csv)
+    - [support_vector_regression.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Support%20Vector%20Regression%20(SVR)/Python/support_vector_regression.ipynb)
+    - [support_vector_regression.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Machine%20Learning%20Notebooks/Regression/Support%20Vector%20Regression%20(SVR)/Python/support_vector_regression.py)
+   
+###Natural Language Processing
+  - Flipkart_Sentiment_Analysis
+    - [Flipkart_Sentiment_Analysis.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Natural%20Language%20Processing/Flipkart_Sentiment_Analysis/Flipkart_Sentiment_Analysis.ipynb)
+    - [flipkart_product_.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Natural%20Language%20Processing/Flipkart_Sentiment_Analysis/flipkart_product_.csv)
+    - [flipkart_sentiment_analysis.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Natural%20Language%20Processing/Flipkart_Sentiment_Analysis/flipkart_sentiment_analysis.py)
+  - Spam_or_Ham_Classification
+    - [SMSSpamCollection.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Natural%20Language%20Processing/Spam_or_Ham_Classification/SMSSpamCollection.csv)
+    - [Spam_or_Ham_classifier_nlp.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Natural%20Language%20Processing/Spam_or_Ham_Classification/Spam_or_Ham_classifier_nlp.ipynb)
+    - [spam_or_ham_classifier_nlp.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Natural%20Language%20Processing/Spam_or_Ham_Classification/spam_or_ham_classifier_nlp.py)
+    
 
 </details>
 
