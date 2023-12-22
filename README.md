@@ -76,7 +76,7 @@ Open a pull request from your fork to the main repository. Provide a clear descr
 
 ### Computer Vision
 
-- [Face_Detection.](https://github.com/ML-Nagpur/Cool-Notebooks/Computer%20Vision/Face_Detection/Face_Detection.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Computer%20Vision/Face_Detection/Face_Detection.py))
+- [Face_Detection.](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Computer%20Vision/Face_Detection/Face_Detection.py)
 - [Convolution Neural Network for MNIST Handwritten Digits Classification.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.py)
 - [convolutional_neural_network.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network.ipynb)
 - [convolutional_neural_network.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/convolutional_neural_network.py)
