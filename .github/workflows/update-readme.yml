@@ -1,0 +1,39 @@
+name: Update README with directory tree
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate directory tree
+        run: |
+          # Generate tree, excluding specified directories
+          tree -I '.git|node_modules|.github|README.md' > directory_tree.txt
+
+          # Check for tree generation errors
+          if [ ! -s directory_tree.txt ]; then
+            echo "Error: Directory tree file is empty. Check for issues with the tree command."
+            exit 1  # Terminate workflow with an error
+          fi
+
+      - name: Update directory tree in README
+        run: |
+          # Add new directory tree below the existing # Directory Tree within <details> block
+          sed -i '/# Directory Tree/,$d' README.md
+          echo -e "# Directory Tree\n\`\`\`bash" >> README.md
+          cat directory_tree.txt >> README.md
+          echo -e "\`\`\`\n" >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update directory tree in README" || true
+          git push
