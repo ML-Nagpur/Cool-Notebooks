@@ -9,7 +9,6 @@
 
 This collection features a diverse set of data and artificial intelligence (AI) notebook templates, covering a wide range of machine learning topics. These notebooks are curated to provide valuable resources, including models, analytics, code snippets, and more.
 
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
