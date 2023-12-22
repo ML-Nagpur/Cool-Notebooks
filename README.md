@@ -100,20 +100,40 @@ Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%2
     - [Churn_Modelling.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/Churn_Modelling.csv)
     - [artificial_neural_network.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/artificial_neural_network.ipynb)
     - [artificial_neural_network.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Python/artificial_neural_network.py)
-  - [Convolution Neural Network for MNIST Handwritten Digits Classification.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.ipynb)
-  - [Convolution Neural Network for MNIST Handwritten Digits Classification.py
-](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/Convolution%20Neural%20Network%20for%20MNIST%20Handwritten%20Digits%20Classification.py)
-  - [convolutional_neural_network.ipynb
-Latest](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/convolutional_neural_network.ipynb)
-  - [convolutional_neural_network.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/%20Convolutional%20Neural%20Networks%20(CNN)/Python/convolutional_neural_network.py)
+  - [.DS_Store](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/.DS_Store)
+  - [Stochastic_Gradient_Descent.png](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Artificial%20Neural%20Networks%20(ANN)/Stochastic_Gradient_Descent.png)
   
-### Gated Recurrent Unit (GRU)
-
-#### Files
-- [Gated_Recurrent_Unit_(GRU).ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/.DS_SDeep%20Learningre)
-- [Churn_Modelling.csv](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/Churn_Modelling.csv)
-- [artificial_neural_network.ipynb](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/artificial_neural_network.ipynb)
-- [artificial_neural_network.py](Cool-Notebooks/Deep%20Learning/Convolutional%20Neural%20Networks%20(CNN)/direcDeep%20Learningry/Artificial%20Neural%20Networks%20(ANN)/PyhDeep%20Learningn/artificial_neural_network.py)
+- Gated Recurrent Unit (GRU)
+  - [Gated_Recurrent_Unit_(GRU).ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Gated%20Recurrent%20Unit%20(GRU)/Gated_Recurrent_Unit_(GRU).ipynb)
+  - [Mastercard_stock_history.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Gated%20Recurrent%20Unit%20(GRU)/Mastercard_stock_history.csv)
+  - [gated_recurrent_unit_(gru).py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Gated%20Recurrent%20Unit%20(GRU)/gated_recurrent_unit_(gru).py)
+    
+- Long Short Term Memory (LSTM)
+  - [Long_Short_Term_Memory_(LSTM).ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Long%20Short%20Term%20Memory%20(LSTM)/Long_Short_Term_Memory_(LSTM).ipynb)
+  - [Mastercard_stock_history.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Long%20Short%20Term%20Memory%20(LSTM)/Mastercard_stock_history.csv)
+  - [long_short_term_memory_(lstm).py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Long%20Short%20Term%20Memory%20(LSTM)/long_short_term_memory_(lstm).py)
+    
+- Multi-layer perceptron (MLP)
+  - [Multi_Layer_Perceptron_(MLP)_Model.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Multi-layer%20perceptron%20(MLP)/Multi_Layer_Perceptron_(MLP)_Model.ipynb)
+  - [multi_layer_perceptron_(mlp)_model.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Multi-layer%20perceptron%20(MLP)/multi_layer_perceptron_(mlp)_model.py)
+    
+- Recurrent Neural Networks (RNN)
+  - [Recurrent_Neural_Networks_(RNN).ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Recurrent%20Neural%20Networks%20(RNN)/Recurrent_Neural_Networks_(RNN).ipynb)
+  - [recurrent_neural_networks_(rnn).py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/Recurrent%20Neural%20Networks%20(RNN)/recurrent_neural_networks_(rnn).py)
+    
+- single-layer perceptron (SLP)
+  - [single_layer_perceptron_(SLP)_Model.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/single-layer%20perceptron%20(SLP)/single_layer_perceptron_(SLP)_Model.ipynb)
+  - [single_layer_perceptron_(slp)_model.py](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Deep%20Learning/single-layer%20perceptron%20(SLP)/single_layer_perceptron_(slp)_model.py)
+ 
+    ## Experimental Notebooks
+    - Automated ML Classification Template
+        - [AutomatedClassification.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Automated%20ML%20Classification%20Template/AutomatedClassification.ipynb)
+    - Categorise-Data-From-Single-Feature-Using-NLTK-main
+        - [All Sports Fitness and Outdoors.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Categorise-Data-From-Single-Feature-Using-NLTK-main/All%20Sports%20Fitness%20and%20Outdoors.csv)
+        - [CategorisationOfData_.ipynb](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Categorise-Data-From-Single-Feature-Using-NLTK-main/CategorisationOfData_.ipynb)
+        - [README.md](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Categorise-Data-From-Single-Feature-Using-NLTK-main/README.md)
+        - [sports.csv](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/Categorise-Data-From-Single-Feature-Using-NLTK-main/sports.csv)
+    - [.DS_Store](https://github.com/ML-Nagpur/Cool-Notebooks/blob/main/Experimental%20Notebooks/.DS_Store)
 
 </details>
 
