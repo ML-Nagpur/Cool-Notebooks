@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout
         uses: ML-Nagpur/checkout
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate directory tree
         run: |
