@@ -60,6 +60,7 @@ Explore notebooks covering a variety of machine learning topics, including but n
 
 Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discussions, questions, and updates. Connect with fellow learners and practitioners to enhance your ML journey.
 <details>
+   <summary> Navigate to a pertivular File </summary>
    # Cool-Notebooks
 
 ## Machine Learning Notebooks
