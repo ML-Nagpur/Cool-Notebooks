@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: ML-Nagpur/checkout@v2
 
       - name: Generate directory tree
         run: |
