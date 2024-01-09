@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: ML-Nagpur/checkout
+        uses: actions/checkout@v2
         with:
-          token: ${{ secrets.MY_SECRET_TOKEN  }}
+          token: ${{ secrets.MY_SECRET_TOKEN }}
 
       - name: Generate directory tree
         run: |
@@ -39,5 +39,3 @@ jobs:
           git add README.md
           git commit -m "Update directory tree in README" || true
           git push
-
-          #code by @aayushpaigwar
