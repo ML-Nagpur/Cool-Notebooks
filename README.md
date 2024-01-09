@@ -72,6 +72,8 @@ Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discu
 │   └── Hand_Tracking
 │       ├── Hand_Tracking.py
 │       └── requirements.txt
+├── Data Visualization
+│   └── Visualization Tutorial.ipynb
 ├── Deep Learning
 │   ├──  Convolutional Neural Networks (CNN)
 │   │   └── Python
@@ -110,9 +112,19 @@ Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discu
 │       ├── CategorisationOfData_.ipynb
 │       └── sports.csv
 ├── Generative AI
-│   └── Transformers_(GPT_2)_for_Text_Generation
-│       ├── Transformers_(GPT_2)_for_Text_Generation.ipynb
-│       └── transformers_(gpt_2)_for_text_generation.py
+│   ├── Fine Tuning LLMA in Colab
+│   │   └── Fine_tune_Llama_2_in_Google_Colab.ipynb
+│   ├── GPT2 based Text Generation
+│   │   ├── Transformers_(GPT_2)_for_Text_Generation.ipynb
+│   │   └── transformers_(gpt_2)_for_text_generation.py
+│   ├── ImageToTextGenerator
+│   │   ├── ImageToTextGenerator.ipynb
+│   │   └── imagetotextgenerator.py
+│   └── Langchain based Chat Retrival Chatbot
+│       ├── Mumbai1.csv
+│       ├── app.py
+│       ├── cached_data.json
+│       └── requirements.txt
 ├── LICENSE
 ├── Machine Learning Notebooks
 │   ├── Classification
@@ -233,6 +245,6 @@ Join our vibrant community on [Discord](https://discord.gg/sJews9ERAK) for discu
 ├── SECURITY.md
 └── directory_tree.txt
 
-64 directories, 105 files
+68 directories, 113 files
 ```
 

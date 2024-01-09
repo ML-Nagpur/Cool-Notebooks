@@ -2,16 +2,15 @@ name: Update README with directory tree
 
 on:
   push:
-    branches: [main]
+    branches: [workflow_testing]
+      
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: ML-Nagpur/checkout
-        with:
-          token: ${{ secrets.MY_SECRET_TOKEN  }}
+        uses: actions/checkout@v2
 
       - name: Generate directory tree
         run: |
@@ -40,4 +39,4 @@ jobs:
           git commit -m "Update directory tree in README" || true
           git push
 
-          #code by @aayushpaigwar
+          #coded by @aayushpaigwar
