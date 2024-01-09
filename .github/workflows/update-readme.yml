@@ -2,7 +2,9 @@ name: Update README with directory tree
 
 on:
   push:
-    branches: [main]
+    branches: 
+      - main
+      - workflow_testing
 
 jobs:
   update-readme:
