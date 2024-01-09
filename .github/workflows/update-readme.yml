@@ -4,12 +4,17 @@ on:
   push:
     branches:
       - main
-      - workflow_testing
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Debug
+        run: |
+          echo "Current directory: $(pwd)"
+          echo "Contents of the current directory: $(ls -al)"
+          echo "Contents of the repository after checkout: $(ls -al)"
+
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -39,5 +44,3 @@ jobs:
           git add README.md
           git commit -m "Update directory tree in README" || true
           git push
-
-          # code by @aayushpaigwar
