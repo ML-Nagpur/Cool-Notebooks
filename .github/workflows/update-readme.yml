@@ -2,20 +2,13 @@ name: Update README with directory tree
 
 on:
   push:
-    branches:
-      - main
-      - workflow_testing
+    branches: [workflow_testing]
+      
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Debug
-        run: |
-          echo "Current directory: $(pwd)"
-          echo "Contents of the current directory: $(ls -al)"
-          echo "Contents of the repository after checkout: $(ls -al)"
-
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -40,10 +33,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
           git add README.md
           git commit -m "Update directory tree in README" || true
           git push
 
-          # nn
+          #code by @aayushpaigwar
