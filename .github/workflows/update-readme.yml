@@ -39,4 +39,4 @@ jobs:
           git commit -m "Update directory tree in README" || true
           git push
 
-          #code by @aayushpaigwar
+          #coded by @aayushpaigwar
