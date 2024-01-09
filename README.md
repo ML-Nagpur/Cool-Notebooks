@@ -5,7 +5,7 @@
 ![Repository Visitors](https://komarev.com/ghpvc/?username=ML-Nagpur&color=orange&label=Repository+Visitors)
 
 
-## Welcome to the [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=40&pause=1000&color=FB8500&center=true&vCenter=true&random=false&width=435&lines=Cool+Notebooks)](https://git.io/typing-svg) repository by Team ML Nagpur! 
+## Welcome to the [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=FB8500&center=true&vCenter=true&random=false&width=435&lines=Cool+Notebooks)](https://git.io/typing-svg) repository by Team ML Nagpur! 
 
 This collection features a diverse set of data and artificial intelligence (AI) notebook templates, covering a wide range of machine learning topics. These notebooks are curated to provide valuable resources, including models, analytics, code snippets, and more.
 
