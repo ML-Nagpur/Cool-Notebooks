@@ -1,4 +1,4 @@
-# Cool-Notebooks
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=FB8500&center=true&vCenter=true&random=false&width=435&lines=Cool+Notebooks)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/142468240?s=400&u=9a340c3f66cca9b146fc035d39f3ab3fef26989a&v=4" alt="ML Nagpur Logo" width="auto" height="100" style="border-radius=20px;"></p> 
 
