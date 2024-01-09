@@ -2,7 +2,7 @@ name: Update README with directory tree
 
 on:
   push:
-    branches: 
+    branches:
       - main
       - workflow_testing
 
@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.MY_SECRET_TOKEN }}
 
       - name: Generate directory tree
         run: |
@@ -36,8 +34,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git add README.md
           git commit -m "Update directory tree in README" || true
           git push
+
+          # code by @aayushpaigwar
