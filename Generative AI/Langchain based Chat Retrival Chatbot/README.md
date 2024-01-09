@@ -37,4 +37,6 @@ We are also providing downloads on [Hugging Face](https://huggingface.co/TheBlok
 3. [Hugging Face](https://huggingface.co/meta-llama)
 
 ## Original LLaMA
+
 The repo for the original llama release is in the [`llama_v1`](https://github.com/facebookresearch/llama/tree/llama_v1) branch.
+
