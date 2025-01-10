@@ -31,6 +31,7 @@ Explore notebooks covering a variety of machine learning topics, including but n
 - **Natural Language Processing**
 - **Computer Vision**
 - **Experimental Notebooks**
+- **Generative AI Notebooks**
 
 
 
